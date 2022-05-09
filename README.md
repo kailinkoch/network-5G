@@ -1,5 +1,5 @@
 # The Road to 5G Adoption: A Network Analysis
-This was a final project for IT Economics, simulating the diffusion of 5G in the US with graphs. Check out my full report (<a href="https://gjkls-mims.github.io/capstone-website/draft_report.pdf" target="_blank">PDF</a>).
+This was a final project for IT Economics, simulating the diffusion of 5G in the US with graphs. Check out my full report (<a href="https://kailinkoch.github.io/network-5G/INFO%20234%20Final%20Paper.pdf" target="_blank">PDF</a>).
 
 
 ## Abstract
